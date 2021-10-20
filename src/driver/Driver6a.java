@@ -28,7 +28,7 @@ public class Driver6a {
 		//System.out.println("Inside main");
 		Student lab5 [] = new Student[40];
 		Util u = new Util(); 
-		u.readFile("missinginput.txt", lab5);
+		u.readFile("studentrecords-missing.txt", lab5);
 		do {
 			try { 
 				Driver6a p = new Driver6a();
