@@ -11,7 +11,7 @@ public class Driver6b {
 
 		//Populate the student array
 		Util u = new Util(); 
-		u.readFile("lab5input.txt", lab5);
+		u.readFile("studentrecords.txt", lab5);
 	/*	for (int i = 0; i < lab5.length; i++)
 		{
 			lab5[i].print();
