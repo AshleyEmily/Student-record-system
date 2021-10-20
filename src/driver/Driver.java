@@ -11,7 +11,7 @@ public static void main(String [] args) {
 
 		//Populate the student array
 		Util u = new Util(); 
-		u.readFile("lab5input.txt", lab5);
+		u.readFile("studentrecords.txt", lab5);
 
 		Statistics statlab5 = new Statistics();
 
